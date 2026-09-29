@@ -89,7 +89,9 @@ nav a.active {
     center/cover;
   color: white;
 }
-
+.hero div h1 {
+  color: var(--paper);
+}
 .hero-content { max-width: 760px; padding-block: 90px; }
 
 .eyebrow {
